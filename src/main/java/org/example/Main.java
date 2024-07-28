@@ -22,9 +22,5 @@ public class Main {
         int [][][][][][][][] eighthDim = new int [][][][][][][][]{{{{{{{{0}}}}}}}};
         int [][][][][][][][][] ninthDim = new int [][][][][][][][][]{{{{{{{{{0}}}}}}}}};
         int [][][][][][][][][][] tenthDim = new int [][][][][][][][][][]{{{{{{{{{{0}}}}}}}}}};
-
-
-
-        System.out.println("Hello world!");
     }
 }
