@@ -1,7 +1,6 @@
 package org.example;
 
 import org.example.arrays.SourceArray;
-
 import java.util.Arrays;
 import java.util.List;
 
