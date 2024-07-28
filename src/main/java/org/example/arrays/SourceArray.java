@@ -1,12 +1,11 @@
-package org.example;
+package org.example.arrays;
 
 import java.util.Random;
 
 /***
  *
  */
-public class SourceArray implements  SourceArrayI {
-
+public class SourceArray implements SourceArrayI {
     /***
      *
      * @param singleDim - single dimensional array

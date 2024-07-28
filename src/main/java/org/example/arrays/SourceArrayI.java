@@ -1,7 +1,7 @@
-package org.example;
+package org.example.arrays;
 
 /***
- * 
+ *
  */
 
 public interface SourceArrayI {
